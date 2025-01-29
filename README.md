@@ -17,6 +17,8 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```
 =========================================================================
 # Autor: Ricardo Lemos Láu de Carvalho
+github: https://github.com/RcrdLau/todo-list-challenge-reactnative
+clone: https://github.com/RcrdLau/todo-list-challenge-reactnative.git
 
 # Projeto de Lista de Tarefas com Persistência
 
